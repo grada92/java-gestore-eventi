@@ -2,7 +2,7 @@ package org.esercizio.java;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.EventObject;
+
 
 public class Evento {
 	
